@@ -1,5 +1,5 @@
 
-### Salvew eu sou o Lucas
+### Salvew
 
 
 <!-- - 📱  Atualmente trabalho com desenvolvimento Web  -->
