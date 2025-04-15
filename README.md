@@ -6,6 +6,9 @@ I am Student  at **University of Campinas** (Department of Statistics) - Brazil.
 - I usually code in [R](https://cran.r-project.org), and occasionally in Python.
 - I am curious about [Julia Lang](https://julialang.org)
 - I strongly believe that education changes our lives.
+- I'm also an enthusiast of the crypto world, decentralized economy, DeFi, and Web 3.0.
+
+
 
 Currently, I’m studying topics related to machine learning, including deep learning, neural networks, language models, natural language processing (NLP), and large language models (LLMs).
 
