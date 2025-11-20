@@ -16,4 +16,6 @@ Currently, I’m studying topics related to machine learning, including deep lea
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-lima-1459bb160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ctrucios" height="30" width="40" /></a>
 </p>
-[Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fffgoveia&layout=donut&theme=dracula)](https://github.com/fffgoveia/github-readme-stats)
+
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
